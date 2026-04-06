@@ -1,0 +1,19 @@
+# Python Virtual Environments
+Lab8venv
+
+# NLTK Data
+nltk_data/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+.DS_Store
+Thumbs.db
