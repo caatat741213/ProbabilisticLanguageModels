@@ -1,6 +1,6 @@
 # Probabilistic Language Models Workshop
 
-## 👥 Team Members (小組成員)
+## 👥 Team Members
 * **Chao-Chung Liu**
 
 
