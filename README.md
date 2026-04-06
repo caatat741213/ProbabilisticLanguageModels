@@ -37,7 +37,7 @@ Our experiments show that:
 
 ---
 
-## 🚀 How to Run (如何執行)
+## 🚀 How to Run
 1. Clone this repository.
 ```bash
     git clone [https://github.com/caatat741213/ProbabilisticLanguageModels.git](https://github.com/caatat741213/ProbabilisticLanguageModels.git)
